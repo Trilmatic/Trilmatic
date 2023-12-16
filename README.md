@@ -1,6 +1,6 @@
 <h3 align="center">Europe based software engineer</h3>
 
-- 🔭 Other than my corporate responsibilities, I’m currently working on [forms.js](https://github.com/form-js/forms.js)
+- 🔭 Other than my work responsibilities, I’m currently working on [forms.js](https://github.com/form-js/forms.js)
 
 - 🌱 I’m currently learning **C#, Redis, Python**
 
