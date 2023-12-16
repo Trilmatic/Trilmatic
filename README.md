@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **C#, Redis, Python**
 
-- 💬 Ask me about **vue, laravel**
+- 💬 Ask me about **Vue, Laravel**
 
 - 📫 How to reach me **suchanek-petr@post.cz**
 
