@@ -2,7 +2,7 @@
 
 - 🔭 Other than my work responsibilities, I’m currently working on [forms.js](https://github.com/form-js/forms.js)
 
-- 🌱 I’m currently learning **C#, Redis, Python**
+- 🌱 I’m currently learning Godot game engine and gdscript
 
 - 💬 Ask me about **Vue, Laravel**
 
