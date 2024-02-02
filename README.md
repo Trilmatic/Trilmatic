@@ -6,9 +6,7 @@
 
 - 💬 Ask me about **Vue, Laravel**
 
-- 📫 How to reach me **suchanek-petr@post.cz**
-
-- ⚡ Fun fact **Did you know that the first computer bug was an actual bug? In 1947, Grace Hopper and her team found a moth trapped in a relay of the Harvard Mark II computer, causing an error. They taped the moth in their log book and labeled it as the "first actual case of bug being found." This event is often credited with popularizing the term "bug" in computing!**
+- 📫 Reach me at **suchanek-petr@post.cz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
