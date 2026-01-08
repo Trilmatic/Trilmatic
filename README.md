@@ -2,7 +2,6 @@
 
 I am passionate about technology and driven by a relentless desire to learn and grow. With each new job and challenge I face, I aspire to become a better programmer, continually refining my skills and expanding my knowledge. Over the past decade, I've embraced opportunities to work on diverse projects, collaborating with talented teams to deliver innovative solutions. My journey has taught me the value of adaptability, creativity, and perseverance, and I am excited to bring my enthusiasm and expertise to new and exciting ventures.
 
-- 🔭 Other than my work responsibilities, I’m currently working on [forms.js](https://github.com/form-js/forms.js)
 - 📫 Reach me at [**suchanek-petr@post.cz**](mailto:suchanek-petr@post.cz)
 
 <h3 align="left">Connect with me:</h3>
